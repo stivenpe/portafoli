@@ -1,4 +1,4 @@
-# 👨‍💻 Portafolio Personal – Stiven Pérez
+# 👨‍💻 Portafolio Personal – jeisson stiven  Pérez gonzalez
 
 Este es mi portafolio personal desarrollado con HTML, CSS y JavaScript. Aquí comparto mis habilidades, experiencia y proyectos como desarrollador web frontend.
 
