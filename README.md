@@ -22,7 +22,6 @@ Este es mi portafolio personal desarrollado con HTML, CSS y JavaScript. Aquí co
 - **Netlify** – Despliegue del sitio web
 
 ---
-
 ## 🎯 Características Principales
 
 ✅ Diseño moderno y minimalista  
